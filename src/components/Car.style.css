@@ -1,0 +1,13 @@
+body {
+    background: gray;
+}
+div {
+    background: lightblue;
+    width: 400px;
+}
+h2 {
+    text-align: center;
+}
+p, img {
+    margin-left: 10px;
+}
